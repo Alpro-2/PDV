@@ -1,0 +1,3 @@
+123,teste,G,200
+08438098232,Rhapsodie de fruit - St. Dalfour,UN,1660
+7896436100222,Guaraná - Fruki,UN,185
